@@ -1,0 +1,6 @@
+feature_set,n_features,accuracy,f1_macro,recall_weak,cv_f1_mean,cv_f1_std
+composition only,9,0.8370,0.8113,0.8538,0.8178,0.0038
+entropy only,5,0.8115,0.7816,0.8378,0.7848,0.0039
+composition + entropy,14,0.8778,0.8473,0.9290,0.8511,0.0032
+pattern only,17,0.8347,0.7933,0.8640,0.7875,0.0049
+all features,31,0.9573,0.9435,0.9807,0.9461,0.0028

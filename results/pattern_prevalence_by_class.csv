@@ -1,0 +1,16 @@
+,weak,medium,strong,weak_vs_rest_lift
+dictionary word (>=3 chars),0.7957,0.6521,0.4160,1.5695
+dictionary covers >=50% of chars,0.6981,0.6043,0.3537,1.5503
+common password (exact),0.0287,0.0000,0.0000,
+common/dictionary base + suffix,0.3920,0.0074,0.0000,137.2824
+word followed by digits,0.2505,0.0438,0.0074,11.6990
+leetspeak substitution,0.1874,0.1877,0.0771,1.5650
+keyboard walk (>=3 keys),0.1416,0.0780,0.0319,2.8529
+alpha/numeric sequence (>=3),0.0723,0.0328,0.0122,3.5910
+char repeated >=3 times in a row,0.0294,0.0109,0.0043,4.2763
+repeated block (abcabc),0.0292,0.0194,0.0086,2.2872
+contains a year (1950-2029),0.2675,0.1424,0.0498,3.1307
+contains a date,0.0569,0.0026,0.0002,49.2286
+capitalised first letter only,0.1662,0.0349,0.0061,9.6650
+ends with digits,0.4800,0.2966,0.2200,1.9236
+shorter than 8 chars,0.2622,0.0000,0.0000,

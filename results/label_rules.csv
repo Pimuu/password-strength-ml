@@ -1,0 +1,6 @@
+rule,count
+R3_low_guess_bits,11207
+R4_high_guess_bits,9041
+R5_medium_default,5668
+R2_too_short,3645
+R1_common_password,439
